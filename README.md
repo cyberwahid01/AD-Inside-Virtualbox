@@ -4,7 +4,7 @@ Below are the Labs Carried out for my Work Using Active Directory Inside Virtual
 <h2> Active Directory Inside VirtualBox 💿</h2>
 
 - <b>1. Downloading and Installing Active Directory in VirtualBox 💿</b>
-  - [Downloading and Installing in VirtualBox (Windows Server, Download ISO, Virtual Machine Settings, Install and Load)](https://github.com/cyberwahid01/1-azure-resource-setup)
+  - [Downloading and Installing in VirtualBox (Windows Server, Download ISO, Virtual Machine Settings, Install and Load)](https://github.com/cyberwahid01/Installing-AD-Inside-VirtualBox)
 
 
 
